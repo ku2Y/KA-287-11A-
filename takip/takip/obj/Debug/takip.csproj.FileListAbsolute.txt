@@ -26,3 +26,31 @@ G:\ATOYLE 11 KA 287\takip\takip\obj\Debug\takip.csproj.CoreCompileInputs.cache
 G:\ATOYLE 11 KA 287\takip\takip\obj\Debug\takip.csproj.CopyComplete
 G:\ATOYLE 11 KA 287\takip\takip\obj\Debug\takip.exe
 G:\ATOYLE 11 KA 287\takip\takip\obj\Debug\takip.pdb
+C:\Users\kuzey\Documents\GitHub\KA-287-11A-\takip\takip\bin\Debug\takip.exe.config
+C:\Users\kuzey\Documents\GitHub\KA-287-11A-\takip\takip\bin\Debug\takip.exe
+C:\Users\kuzey\Documents\GitHub\KA-287-11A-\takip\takip\bin\Debug\takip.pdb
+C:\Users\kuzey\Documents\GitHub\KA-287-11A-\takip\takip\bin\Debug\EntityFramework.dll
+C:\Users\kuzey\Documents\GitHub\KA-287-11A-\takip\takip\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kuzey\Documents\GitHub\KA-287-11A-\takip\takip\bin\Debug\System.Buffers.dll
+C:\Users\kuzey\Documents\GitHub\KA-287-11A-\takip\takip\bin\Debug\System.Data.SQLite.dll
+C:\Users\kuzey\Documents\GitHub\KA-287-11A-\takip\takip\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\kuzey\Documents\GitHub\KA-287-11A-\takip\takip\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\kuzey\Documents\GitHub\KA-287-11A-\takip\takip\bin\Debug\System.Memory.dll
+C:\Users\kuzey\Documents\GitHub\KA-287-11A-\takip\takip\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kuzey\Documents\GitHub\KA-287-11A-\takip\takip\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kuzey\Documents\GitHub\KA-287-11A-\takip\takip\bin\Debug\EntityFramework.xml
+C:\Users\kuzey\Documents\GitHub\KA-287-11A-\takip\takip\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kuzey\Documents\GitHub\KA-287-11A-\takip\takip\bin\Debug\System.Buffers.xml
+C:\Users\kuzey\Documents\GitHub\KA-287-11A-\takip\takip\bin\Debug\System.Data.SQLite.xml
+C:\Users\kuzey\Documents\GitHub\KA-287-11A-\takip\takip\bin\Debug\System.Memory.xml
+C:\Users\kuzey\Documents\GitHub\KA-287-11A-\takip\takip\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kuzey\Documents\GitHub\KA-287-11A-\takip\takip\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kuzey\Documents\GitHub\KA-287-11A-\takip\takip\obj\Debug\takip.csproj.AssemblyReference.cache
+C:\Users\kuzey\Documents\GitHub\KA-287-11A-\takip\takip\obj\Debug\takip.csproj.SuggestedBindingRedirects.cache
+C:\Users\kuzey\Documents\GitHub\KA-287-11A-\takip\takip\obj\Debug\takip.Form1.resources
+C:\Users\kuzey\Documents\GitHub\KA-287-11A-\takip\takip\obj\Debug\takip.Properties.Resources.resources
+C:\Users\kuzey\Documents\GitHub\KA-287-11A-\takip\takip\obj\Debug\takip.csproj.GenerateResource.cache
+C:\Users\kuzey\Documents\GitHub\KA-287-11A-\takip\takip\obj\Debug\takip.csproj.CoreCompileInputs.cache
+C:\Users\kuzey\Documents\GitHub\KA-287-11A-\takip\takip\obj\Debug\takip.csproj.CopyComplete
+C:\Users\kuzey\Documents\GitHub\KA-287-11A-\takip\takip\obj\Debug\takip.exe
+C:\Users\kuzey\Documents\GitHub\KA-287-11A-\takip\takip\obj\Debug\takip.pdb

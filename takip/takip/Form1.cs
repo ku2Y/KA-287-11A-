@@ -22,7 +22,7 @@ namespace takip
         private void listele()
         {
 
-            String conString = "Data Source=G:\\sqlite\\SSQ.db;version=3";
+            String conString = "Data Source=SSQ.db;version=3";
             SQLiteConnection conn = new SQLiteConnection(conString);
             conn.Open();
             SQLiteDataAdapter ad = new SQLiteDataAdapter("SELECT*FROM dataa", conn);
@@ -37,7 +37,7 @@ namespace takip
 
         private void button1_Click(object sender, EventArgs e)
         {
-            String conString = "Data Source=G:\\sqlite\\SSQ.db;version=3";
+            String conString = "Data Source=SSQ.db;version=3";
             SQLiteConnection conn = new SQLiteConnection(conString);
             conn.Open();
             SQLiteCommand cmd = new SQLiteCommand();
@@ -57,7 +57,7 @@ namespace takip
 
 
 
-            String conString = "Data Source=G:\\sqlite\\SSQ.db;version=3";
+            String conString = "Data Source=SSQ.db;version=3";
             SQLiteConnection conn = new SQLiteConnection(conString);
             try
             {
@@ -75,7 +75,7 @@ namespace takip
         private void button3_Click(object sender, EventArgs e)
         {
             String BUL = dataGridView1.SelectedCells[0].Value.ToString();
-            String conString = "Data Source=G:\\sqlite\\SSQ.db;version=3";
+            String conString = "Data Source=SSQ.db;version=3";
             SQLiteConnection conn = new SQLiteConnection(conString);
             try
             {
@@ -104,7 +104,7 @@ namespace takip
         private void button4_Click(object sender, EventArgs e)
         {
             String BUL = dataGridView1.SelectedCells[0].Value.ToString();
-            String conString = "Data Source=G:\\sqlite\\SSQ.db;version=3";
+            String conString = "Data Source=SSQ.db;version=3";
             SQLiteConnection conn = new SQLiteConnection(conString);
             try
             {
@@ -145,7 +145,7 @@ namespace takip
         private void button5_Click(object sender, EventArgs e)
         {
             
-            String conString = "Data Source=G:\\sqlite\\SSQ.db;version=3";
+            String conString = "Data Source=SSQ.db;version=3";
             SQLiteConnection conn = new SQLiteConnection(conString);
             try
             {
@@ -199,7 +199,7 @@ namespace takip
 
         private void button3_Click_1(object sender, EventArgs e)
         {
-            String conString = "Data Source=G:\\sqlite\\SSQ.db;version=3";
+            String conString = "Data Source=SSQ.db;version=3";
             SQLiteConnection conn = new SQLiteConnection(conString);
             try
             {
@@ -230,7 +230,7 @@ namespace takip
 
         private void button6_Click(object sender, EventArgs e)
         {
-            String conString = "Data Source=G:\\sqlite\\SSQ.db;version=3";
+            String conString = "Data Source=SSQ.db;version=3";
             SQLiteConnection conn = new SQLiteConnection(conString);
             try
             {
@@ -256,7 +256,7 @@ namespace takip
 
         private void button7_Click(object sender, EventArgs e)
         {
-            String conString = "Data Source=G:\\sqlite\\SSQ.db;version=3";
+            String conString = "Data Source=SSQ.db;version=3";
             SQLiteConnection conn = new SQLiteConnection(conString);
             try
             {
